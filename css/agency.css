@@ -118,7 +118,6 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .btn-xl {
-    margin-bottom: -40px;
     padding: 20px 40px;
     border-color: rgba(119, 119, 119, 0);
     border-radius: 3px;
@@ -304,7 +303,7 @@ header .intro-text .intro-heading {
     }
 
     header .intro-text .intro-lead-in {
-        margin-bottom: -30px;
+        margin-bottom: 20px;
         font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 40px;
         font-style: italic;
