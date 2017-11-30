@@ -3,14 +3,7 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
- <!-- Código de instalación CLIENGO para https://strollnsmile.github.io/ -->
- <script>(function(){var ldk=document.createElement('script');
- ldk.type='text/javascript';
- ldk.async=true; ldk.src='https://s.cliengo.com/weboptimizer/5a1f8223e4b08c29d1b5fd6f/5a1f83d7e4b08c29d1b5ff57.js' ;
- var s=document.getElementsByTagName('script')[0];
- s.parentNode.insertBefore(ldk, s);})();
- </script>
- 
+
 body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -270,7 +263,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #428bca;
+    color: #2f8642;
     background-attachment: scroll;
     background-image: url(../img/header-bg2.jpg);
     background-position: center center;
