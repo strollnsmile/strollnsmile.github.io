@@ -247,7 +247,7 @@ fieldset[disabled] .btn-xl.active {
         transition: all .3s;
     }
 
-    .navbar-default .navbar-nav>.active>a {
+    .navbar-default .nav li a {
         border-radius: 3px;
     }
 
