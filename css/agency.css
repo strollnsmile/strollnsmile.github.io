@@ -10,11 +10,11 @@ body {
 }
 
 .text-muted {
-    color: #777;
+    color: #3a8637;
 }
 
 .text-primary {
-    color: #428bca;
+    color: #3a8637;
 }
 
 p {
@@ -266,7 +266,7 @@ header {
     color: #2f8642;
     background-attachment: scroll;
     background-image: url(../img/header-bg2.jpg);
-    background-position: center center;
+    background-position: bottom;
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -319,6 +319,7 @@ header .intro-text .intro-heading {
         line-height: 75px;
     }
 }
+
 
 section {
     padding: 100px 0;
@@ -649,6 +650,12 @@ section h3.section-subheading {
 
 aside.clients img {
     margin: 50px auto;
+}
+section#service {
+    background-color: #222;
+    background-image: url(../img/header-bg5.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 section#contact {
